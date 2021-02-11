@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Weather.Kotlin</string>
+    <string name="_7_5_m_s">7.5 m/s</string>
+    <string name="_720bar">720bar</string>
+    <string name="_5">+5</string>
+    <string name="riga">Riga</string>
+    <string name="_6">+6</string>
+    <string name="error">Error</string>
+
+    <string name="reload">Reload</string>
+    <string name="m_s">m/s</string>
+    <string name="_720">720</string>
+</resources>
